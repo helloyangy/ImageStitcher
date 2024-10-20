@@ -1,0 +1,27 @@
+QPushButton {
+    background-color: #4CAF50; /* 按钮默认背景色 */
+    color: white; /* 按钮文本颜色 */
+    border: none; /* 无边框 */
+    padding: 10px; /* 内边距 */
+    border-radius: 5px; /* 圆角 */
+    font-size: 16px; /* 字体大小 */
+}
+
+QPushButton:hover {
+    background-color: #45a049; /* 悬停时背景色 */
+}
+
+QLabel {
+    font-size: 14px; /* 字体大小 */
+    color: #333; /* 文本颜色 */
+    margin: 5px; /* 外边距 */
+}
+
+QLabel#imageLabel {
+    border: 2px dashed #ccc; /* 图片标签的边框样式 */
+    background-color: #f9f9f9; /* 背景颜色 */
+}
+
+QWidget {
+    background-color: #f0f0f0; /* 主窗口背景色 */
+}

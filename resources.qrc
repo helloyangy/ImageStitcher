@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>styles.qss</file> <!-- 添加样式表 -->
+    </qresource>
+</RCC>
